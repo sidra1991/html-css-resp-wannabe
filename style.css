@@ -120,6 +120,10 @@ img {
     background-color: #f2f2cd;
   }
 
+  #why {
+    background-color: #f2f2cd;  
+  }
+
 }
 
 
@@ -130,13 +134,16 @@ img {
     margin: 0;
   }
 
+  body{
+     background-color: #f2f2cd;  
+  }
+
   .row{
     width: 100vw;
     margin-top: 0px;
   }
 
   #lezioni.container{
-    background-color: #f2f2cd;
     width: 100vw;
   }
 
@@ -167,8 +174,9 @@ img {
     height: 100px;
   }
 
-  #why .container {
-    background-color: #f2f2cd;
+  #why {
+    background-color: #f2f2cd;  
   }
+
 
 }
