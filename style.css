@@ -141,6 +141,7 @@ img {
   .row{
     width: 100vw;
     margin-top: 0px;
+    font-size: 0.6rem;
   }
 
   #lezioni.container{
