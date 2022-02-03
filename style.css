@@ -116,6 +116,10 @@ img {
     height: 100px;
   }
 
+  #why .container {
+    background-color: #f2f2cd;
+  }
+
 }
 
 
@@ -161,6 +165,10 @@ img {
   img {
     width: 100px;
     height: 100px;
+  }
+
+  #why .container {
+    background-color: #f2f2cd;
   }
 
 }
