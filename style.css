@@ -73,9 +73,18 @@ img {
 }
 
 
-@media only screen and (max-width: 420px) {
+@media only screen and (max-width: 420px){
+  
+  *{
+    margin: 0;
+  }
 
   .row{
+    width: 100vw;
+  }
+
+  #lezioni.container{
+    background-color: #f2f2cd;
     width: 100vw;
   }
 
@@ -86,4 +95,11 @@ img {
     margin-left: 15%;
   }
 
+  #steps .row>.left,
+  #steps .row>.central,
+  #steps .row>.right {
+    float: none;
+    width: 70%;
+    margin-left: 15%;
+}
 }
